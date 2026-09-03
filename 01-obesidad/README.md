@@ -15,7 +15,7 @@ Conjunto con 2,111 registros y 10 variables sobre características físicas, há
 ## Archivos
 
 - [`reporte.html`](reporte.html) — reporte navegable.
-- [`analisis_obesidad.ipynb`](analisis_obesidad.ipynb) — notebook reproducible.
+- [`A1.1 657657.ipynb`](A1.1 657657.ipynb) — notebook reproducible.
 - [`index.html`](index.html) — página de entrada del proyecto.
 
 ## Tecnologías y capacidades

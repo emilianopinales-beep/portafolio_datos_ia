@@ -15,7 +15,7 @@ Tabla CONCENTRADOHOGAR de la ENIGH 2024 con 91,414 hogares y 126 variables.
 ## Archivos
 
 - [`reporte.html`](reporte.html) — reporte navegable.
-- [`prediccion_gasto_hogares.ipynb`](prediccion_gasto_hogares.ipynb) — notebook reproducible.
+- [`P_P1_657657.ipynb`](P_P1_657657.ipynb) — notebook reproducible.
 - [`index.html`](index.html) — página de entrada del proyecto.
 
 ## Tecnologías y capacidades

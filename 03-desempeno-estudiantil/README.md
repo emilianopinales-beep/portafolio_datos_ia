@@ -15,7 +15,7 @@ Conjunto de 395 registros y 10 variables académicas y demográficas; la variabl
 ## Archivos
 
 - [`reporte.html`](reporte.html) — reporte navegable.
-- [`prediccion_desempeno.ipynb`](prediccion_desempeno.ipynb) — notebook reproducible.
+- [`A1.3 657657.ipynb`](A1.3 657657.ipynb) — notebook reproducible.
 - [`index.html`](index.html) — página de entrada del proyecto.
 
 ## Tecnologías y capacidades

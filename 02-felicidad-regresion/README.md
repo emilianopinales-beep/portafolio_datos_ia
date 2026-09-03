@@ -15,7 +15,7 @@ Datos de 141 países con felicidad y GDP; el análisis múltiple integra esperan
 ## Archivos
 
 - [`reporte.html`](reporte.html) — reporte navegable.
-- [`regresion_felicidad.ipynb`](regresion_felicidad.ipynb) — notebook reproducible.
+- [`A1.2 657657.ipynb`](A1.2 657657.ipynb) — notebook reproducible.
 - [`index.html`](index.html) — página de entrada del proyecto.
 
 ## Tecnologías y capacidades
